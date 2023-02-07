@@ -1,0 +1,32 @@
+title{
+    text-align: center;
+    font-size:50px;
+    font-weight:200;
+    font-style: inherit;
+    border-color: yellow;
+    font-size: medium;
+}
+header{
+    text-align: center;
+    font-size: medium;
+    font-weight: 500;
+    font-style: inherit;
+    font-display:block;
+    background-color: black;
+    color:white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    float: left;
+    overflow: hidden;
+    background-color: black;
+}
+nav a:hover{
+    color: yellow;
+}
+nav a:visited{
+    color:gold;
+}
